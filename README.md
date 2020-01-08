@@ -1,5 +1,5 @@
 # My Favorite Open Source Software
-A list of open source tools I can use
+A list of open source and non open source tools I can use
 
 ## Rocket Chat
 https://rocket.chat/
@@ -13,3 +13,5 @@ https://www.gimp.org/
 ## test tool
 www.test.com
 
+## mailchimp
+mailchimp.com
