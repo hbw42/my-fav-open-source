@@ -13,5 +13,4 @@ https://www.gimp.org/
 ## test tool
 www.test.com
 
-## mailchimp
-mailchimp.com
+
