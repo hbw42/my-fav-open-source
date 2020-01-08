@@ -1,4 +1,4 @@
-# my-fav-open-source
+# My Favorite Open Source Software
 A list of open source tools I can use
 
 ## Rocket Chat
