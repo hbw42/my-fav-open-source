@@ -6,3 +6,6 @@ https://rocket.chat/
 
 ## WordPress
 wordpress.org
+
+## GIMP
+https://www.gimp.org/
