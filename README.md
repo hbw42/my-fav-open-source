@@ -5,7 +5,7 @@ A list of open source and non open source tools I can use
 https://rocket.chat/
 
 ## WordPress
-wordpress.org
+https://wordpress.org
 
 ## GIMP
 https://www.gimp.org/
